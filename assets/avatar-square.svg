@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800" width="800" height="800">
+  <rect width="800" height="800" fill="#0B0F17" />
+  <g id="eigenvar-monogram">
+    <rect x="96" y="210" width="32" height="380" fill="#F8FAFC" />
+    <polygon points="176,246 228,246 228,492 372,492 372,554 176,554" fill="#00E5FF" />
+    <rect x="246" y="246" width="126" height="62" fill="#F8FAFC" />
+    <rect x="246" y="369" width="106" height="62" fill="#F8FAFC" />
+    <polygon points="392,246 452,246 530,554 476,554" fill="#F8FAFC" />
+    <polygon points="542,554 514,444 574,246 634,246" fill="#F8FAFC" />
+    <polygon points="656,246 692,246 756,400 692,554 656,554 720,400" fill="#F8FAFC" />
+  </g>
+</svg>
