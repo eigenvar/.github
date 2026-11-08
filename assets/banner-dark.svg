@@ -18,7 +18,7 @@
 
   <!-- Primary Wordmark & 2-Line Technical Subtitle -->
   <text x="510" y="130" font-family="'Space Grotesk', 'Inter', -apple-system, BlinkMacSystemFont, sans-serif" font-size="52" font-weight="800" letter-spacing="6" fill="#F8FAFC">EIGENVAR LABS</text>
-  <text x="512" y="172" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, monospace" font-size="16" font-weight="600" letter-spacing="1.5" fill="#00E5FF">// DETERMINISTIC NEURO-SYMBOLIC VERIFICATION &amp;</text>
+  <text x="512" y="172" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, monospace" font-size="16" font-weight="600" letter-spacing="1.5" fill="#00E5FF">// FORMAL SOFTWARE VERIFICATION &amp;</text>
   <text x="512" y="198" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, monospace" font-size="16" font-weight="600" letter-spacing="1.5" fill="#00E5FF">// APPLIED PHYSICS R&amp;D</text>
-  <text x="512" y="236" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, monospace" font-size="13.5" fill="#94A3B8">SPEC_LOCKED &#8594; CODE_SYNTHESIZED &#8594; VERIFIED  |  RESTON, VA</text>
+  <text x="512" y="236" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, monospace" font-size="13.5" fill="#94A3B8">WHERE DIGITAL LOGIC MEETS PHYSICAL LAW  |  RESTON, VA</text>
 </svg>
